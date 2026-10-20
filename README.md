@@ -1,2 +1,2 @@
-# lab-github-Chironda
-laborator 8-9
+# Proiectul meu
+Acesta este repository pe GitHub.
